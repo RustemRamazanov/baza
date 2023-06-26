@@ -1,0 +1,185 @@
+html{scroll-behavior: smooth;
+
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    padding: 0;
+}
+.container{
+    width: 1200px;
+    margin: 200px auto 0 auto;
+}
+p{
+    width: 570px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+}
+h3{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 120%;
+    opacity: 0.3;
+}
+header{
+    margin: 50px auto 0 auto;
+    width: 100%;
+    height: 900px;
+    background-image: url("img/fonHeader.png");
+}
+.logo{
+    width: 168px;
+    height: 53px;
+    margin: 63px 0 0 199px;
+}
+.headerText{
+    color: #fff;
+    padding: 274px 497px 250px 200px;
+}
+.headerText h1{
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 100%;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.headerText p{
+    margin: 25px 0 45px 0;
+    width: 385px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+}
+.headerText button{
+   padding: 19px 62px;
+}
+
+.infoOfProjectText{
+    width: 570px;
+    margin-right: 60px;
+}
+
+.imgmiddle{
+    width: 570px;
+    height: 371px;
+    margin-left: 35px;
+}
+.imgmiddle1{
+    width: 570px;
+    height: 371px;
+    margin-right: 105px;
+}
+.infoOfProjet{
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.highImage{
+    width: 1200px;
+    height: 600px;
+}
+.styleInfo{
+    margin-top: 200px;
+    display: flex;
+}
+.imgmiddle2{
+    width: 570px;
+    height: 371px;
+    margin-right: 60px;
+}
+.btm{
+justify-content: center;
+padding: 17px 62px;
+width: 337px;
+color: #FFFFFF;
+font-weight: 600;
+font-size: 17px;
+background: #191919;
+}
+.offersText p{
+    width: 450px;
+    margin-right: 151px;
+}
+.texth2{
+    width: 570px;
+}
+td{ 
+    width: 600px;
+    height: 114px;
+    padding-left: 30px;
+    border-bottom: #191919 solid 0.1px ;
+}
+.textTable{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 120%;
+}
+footer{
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    padding-bottom: 200px;
+    
+}
+h4{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 120%;
+    margin-top: 200px;
+}
+.input{
+    width: 570px;
+    margin-top: 200px;
+}
+input{
+    margin-bottom: 40px;
+    font-size: 14px;
+    line-height: 140%;
+    color: #545454;
+    background-color: #000;
+}
+footer button{
+    padding: 19px 62px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.inputText{
+    width:352px;
+}
+.downmenu{
+    padding-top: 100px;
+}
+a{
+    margin-right: 18px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color:#545454;
+}
+.topmenu a{
+    color:#ffffff;
+    margin-right: 47px;
+}
+.topmenu{
+    display: flex;
+}
+.topmenuText{
+    margin-top: 82px;
+    margin-left: 447px;
+}
+.checkbox{
+    font-family: Regular sans-serif;
+    font-size: 14px;
+}
