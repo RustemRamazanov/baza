@@ -1,0 +1,33 @@
+html{scroll-behavior: smooth;
+
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    width: 100%;
+    color: rgb(14, 180, 14);
+}
+.container{
+    margin-bottom: 100px;
+    padding: 100px 50px;
+}
+header .formText{
+    padding-left: 700px;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    margin-left: 100px;
+}
+header ul{
+    text-align: left;
+}
+header .top{
+    display: flex;
+}
+header .top h1{
+    padding-left: 400px;
+    font-family: 'Yellowtail', cursive;
+}
